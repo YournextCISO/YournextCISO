@@ -1,6 +1,7 @@
 
 # Hello, I'm YournextCISO
 <a href="https://www.linkedin.com/in/ndesylvarius/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/YournextCISO.svg?style=social&label=Follow%20%40YournextCISO)](https://twitter.com/YournextCISO)
 
 
 
