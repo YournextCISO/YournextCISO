@@ -7,22 +7,15 @@
 
 SOC Analyst in Training in love with everything Blue 💙
 
-## Objective
+- ##  Cybersecurity Projects:
+     - ## [Wazuh File Integrity Monitoring]
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | 30% Complete |
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      ||
-| Case Management with TheHive                  | |
-| Scripting and Automation for Threat Mitigation | |
+- ## Walkthroughs & Investigations:
+     - ### [HTB Sherlocks](https://github.com/YournextCISO/HTB_SHERLOCKS)
+     - ### [LetsDefend Investigations](https://github.com/YournextCISO/Letsdefend-Investigations)
+     - ### [LetsDefend Challenges](https://github.com/YournextCISO/Letsdefend-Challenges)
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -47,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+- ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
