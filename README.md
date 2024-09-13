@@ -3,7 +3,7 @@
 
 SOC Analyst passionate about protecting organizations and systems from cyber threats. 
 
-## 🌐 Connect with me om:
+## 🌐 Connect with me on:
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/ndesylvarius/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
