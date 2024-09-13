@@ -1,13 +1,22 @@
 
 # 👋 Hi there! I'm YournextCISO
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndesylvarius/)
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/ndesylvarius/" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/YournextCISO">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</div>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/YournextCISO.svg?style=social&label=Follow%20%40YournextCISO)](https://twitter.com/YournextCISO)
+<a href="https://tryhackme.com/p/YournextCISO" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YournextCISO.png" alt="TryHackMe">
+</a>
 
 
 
-# SOC Analyst |Cloud |Everything Blue 💙
+# SOC Analyst | Cloud | Everything Blue 💙
 
 - ##  Cybersecurity Projects:
      - ## [Wazuh Lab Series](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/README.md)
@@ -48,7 +57,7 @@
 
  ## Certifications
    - ## [Google Cybesecurity Professional](https://www.credly.com/badges/ccb9dc9a-b5bd-40d0-bd57-71e1fc5f9882/public_url)
-   - ## [AWS Cloud Practitioner]()
+   - ## [AWS Cloud Practitioner](https://www.credly.com/badges/7f0c4494-53f9-463e-83b7-4a79b0938647/public_url)
    - ## [SC-900](https://www.credly.com/earner/earned/badge/ccead2ef-94aa-4ef5-b323-23fecfad465a)
 
 
