@@ -1,6 +1,9 @@
 
-# 👋 Hi there! I'm YournextCISO
+# 👋 Hi there!, I'm Nde Sylvarius 
 
+SOC Analyst passionate about protecting organizations and systems from cyber threats. 
+
+## 🌐 Connect with me om:
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/ndesylvarius/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,25 +18,27 @@
 </a>
 
 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F76A2E&width=573&lines=SOC+Analyst%7C+%F0%9F%8F%80+Basketballer+%7C+%F0%9F%8E%B5+Music+Lover+%7C+%F0%9F%8E%8C+Anime+Fan)](https://git.io/typing-svg)
 
-# SOC Analyst | Cloud | Everything Blue 💙
+## Cybersecurity Projects
 
-- ##  Cybersecurity Projects:
-     - ## [Wazuh Lab Series](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/README.md)
-     - ## [SOC Automation Lab](https://github.com/YournextCISO/SOC-AUTOMATION-LAB)
-     - ## [SOAR EDR Lab](https://github.com/YournextCISO/SOAR-EDR-Lab)
-     - ## [Splunk-Active Directory LAB ](https://github.com/YournextCISO/Splunk-AD-LAB)
-     - ## [Windows event logs + ART with ELK ](https://github.com/YournextCISO/Windows-event-log-ART-with-ELK)
-     - ## [AZ-104 Labs](https://github.com/YournextCISO/AZ-104-Labs)
-     - ## [SC-200 Labs](https://github.com/YournextCISO/SC-200)
-
+- [Wazuh Lab Series](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/README.md)
+- [SOC Automation Lab](https://github.com/YournextCISO/SOC-AUTOMATION-LAB)
+- [SOAR EDR Lab](https://github.com/YournextCISO/SOAR-EDR-Lab)
+- [Splunk-Active Directory LAB](https://github.com/YournextCISO/Splunk-AD-LAB)
+- [Windows Event Logs + ART with ELK](https://github.com/YournextCISO/Windows-event-log-ART-with-ELK)
+- [AZ-104 Labs](https://github.com/YournextCISO/AZ-104-Labs)
+- [SC-200 Labs](https://github.com/YournextCISO/SC-200)
 
 
-- ## Walkthroughs & Investigations:
-     - ### [HTB Sherlocks](https://github.com/YournextCISO/HTB_SHERLOCKS)
-     - ### [LetsDefend Investigations](https://github.com/YournextCISO/Letsdefend-Investigations)
-     - ### [LetsDefend Challenges](https://github.com/YournextCISO/Letsdefend-Challenges)
-     - ### [Tryhackme SOC L1](https://github.com/YournextCISO/THM-SOC-L1)
+
+## Walkthroughs & Investigations
+
+- [HTB Sherlocks](https://github.com/YournextCISO/HTB_SHERLOCKS)
+- [LetsDefend Investigations](https://github.com/YournextCISO/Letsdefend-Investigations)
+- [LetsDefend Challenges](https://github.com/YournextCISO/Letsdefend-Challenges)
+- [TryHackMe SOC L1](https://github.com/YournextCISO/THM-SOC-L1)
+
 
 ## Tools
 
