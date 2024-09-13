@@ -8,7 +8,7 @@
 SOC Analyst in Training in love with everything Blue 💙
 
 - ##  Cybersecurity Projects:
-     - ## [Wazuh Lab Series](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/Wazuh%20FIM%20Lab)
+     - ## [Wazuh Lab Series](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/README.md)
 
 
 
