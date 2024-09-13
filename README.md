@@ -8,7 +8,7 @@
 SOC Analyst in Training in love with everything Blue 💙
 
 - ##  Cybersecurity Projects:
-     - ## [Wazuh File Integrity Monitoring]
+     - ## [Wazuh File Integrity Monitoring](https://github.com/YournextCISO/Wazuh-Lab-Series/blob/main/Wazuh%20FIM%20Lab)
 
 
 
@@ -41,6 +41,7 @@ SOC Analyst in Training in love with everything Blue 💙
 </div>
 
 - ## Certifications
+   - ## [Google Cybesecurity Professional](https://www.credly.com/badges/ccb9dc9a-b5bd-40d0-bd57-71e1fc5f9882/public_url)
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
